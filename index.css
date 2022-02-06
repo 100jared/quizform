@@ -52,16 +52,23 @@ h3{
     margin-top: 40px;
     font-size: 30px;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 290px){
     body{
         float: left;
         margin-left: 2px;
     }
 .sub{
-    background-color: white;
     width: 100%;
     height: auto;
     width: auto;
+}
+h2{
+    float: left;
+}
+#resultPart h3{
+    padding: 10px;
+    margin: 10px;
+    background: blue;
 }
 #button{
     margin-left: 10px;
