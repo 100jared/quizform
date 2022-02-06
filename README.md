@@ -13,7 +13,9 @@
 
 ## Description
 <p>This is a free website providing learning tools for computer science students. the system will let them know their score after submission and if they get below 50, the systems prompt them to redo the test.</p>
-![design](landingpage.jpg)
+
+![landingpage](https://user-images.githubusercontent.com/92339816/152685556-f7c694d7-1cbd-4ec2-9558-a1b06b40a95b.jpg)
+
 
 ## Preview Device
 
