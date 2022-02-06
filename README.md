@@ -13,7 +13,8 @@
 
 ## Description
 <p>This is a free website providing learning tools for computer science students. the system will let them know their score after submission and if they get below 50, the systems prompt them to redo the test.</p>
-![design](https://github.com/100jared/quizform/blob/master/img/landing%20page.jpg)
+![design](landingpage.jpg)
+
 ## Preview Device
 
 * View it with a computer,phone,tablet or an Ipad
