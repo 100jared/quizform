@@ -14,9 +14,10 @@
 ## Description
 <p>This is a free website providing learning tools for computer science students. the system will let them know their score after submission and if they get below 50, the systems prompt them to redo the test.</p>
 
+<p>Below is a Figma design for the Layout</p> 
 <img src="https://user-images.githubusercontent.com/92339816/152685556-f7c694d7-1cbd-4ec2-9558-a1b06b40a95b.jpg" width ="300" height="300">
 
-
+[figma-design link](https://www.figma.com/file/zxCOkGntmJaEZ9DrXIxbkt/quiz-design?node-id=18%3A2)
 ## Preview Device
 
 * View it with a computer,phone,tablet or an Ipad
