@@ -58,6 +58,8 @@ h3{
         margin-left: 2px;
     }
 .sub{
+    background-color: white;
+    width: 100%;
     height: auto;
     width: auto;
 }
