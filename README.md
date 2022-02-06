@@ -44,7 +44,7 @@ JavaScript is a text-based programming language used both on the client-side and
 [Back to the top](#Project-2)
 
 ## Licence
-[MIT License](MIT LICENSE)
+MIT License
 
 [Go Back to the top](#Project-2)
 
