@@ -17,6 +17,13 @@ h2{
     padding: 10px;
     color: blue;
 }
+h3{
+    color: #DF3D3D;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-left: 80px;
+ }
+ 
 .sub{
     background-color: #C4C4C4;
     height: 60px;
