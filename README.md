@@ -23,7 +23,7 @@
 * View it with a computer,phone,tablet or an Ipad
 
 * Get connected to an internet.
-* [Live link]()
+* [Live link](https://100jared.github.io/quizform/)
 
 [Back to the top](#quizform)
 
@@ -41,12 +41,12 @@ JavaScript is a text-based programming language used both on the client-side and
 * week 3 content Moringa school canvas.
 * w3schools, HTML, Bootstrap, CSS and JavaScript.
 
-[Back to the top](#Project-2)
+[Back to the top](#quizform)
 
 ## Licence
 MIT License
 
-[Go Back to the top](#Project-2)
+[Go Back to the top](#quizform)
 
 ## Author's Info
 github - [Gilbert K](https://github.com/100jared)
