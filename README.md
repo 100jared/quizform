@@ -32,6 +32,10 @@
 ### The following technologies were used.
 * HTML - HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn. [HTML](https://www.w3schools.com/html/)
 * CSS - CSS is the language that styles and describes how HTML elements should be displayed. [CSS](https://www.w3schools.com/css/)
+* Bootstrap - 
+Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). 
+* JavaScript - 
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
 
 ## Reference
 * week 3 content Moringa school canvas.
