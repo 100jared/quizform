@@ -15,17 +15,17 @@ function check(){
 
 
     quiz.style.display = "none";
-    var finalAnswer = c*20; //multiply by 20 to get 100%
+    var totalVal = c*20; //multiply by 20 to get 100%
 
 
-     if(finalAnswer >= 80){
-        result.textContent = "Your Score is: " + finalAnswer +"%"+" EXCELLENT!";
+     if(totalVal >= 80){
+        result.textContent = "Your Score is: " + totalVal +"%"+" EXCELLENT!";
     }
-    else if(finalAnswer>=50&&finalAnswer<80){
-        result.textContent = "Your Score is: " + finalAnswer +"%"+" FAIRLY DONE!";
+    else if(totalVal>=50&&totalVal<80){
+        result.textContent = "Your Score is: " + totalVal +"%"+" FAIRLY DONE!";
     }
-    else if(finalAnswer<50){
-        result.textContent = "Your Score is: " + finalAnswer +"%"+" POORLY DONE! Repeat the TEST";
+    else if(totalVal<50){
+        result.textContent = "Your Score is: " + totalVal +"%"+" POORLY DONE! Repeat the TEST";
     }     
 }
 function checkQuiz(){
