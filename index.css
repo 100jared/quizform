@@ -4,7 +4,7 @@
 }
 body{
     margin-left: 40px;
-    background-color: A6C4F1;
+    background-color: #A6C4F1;
 }
 h1{
     text-align: center;
@@ -30,7 +30,7 @@ h3{
     }    
  
 .sub{
-    background-color: #C4C4C4;
+    background-color: white;
     height: 60px;
     width: 1200px;
 }
