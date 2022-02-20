@@ -13,15 +13,10 @@ function check(){
     if(q4 == "C"){c++}
     if(q5 == "C"){c++}
 
-    //      var a = document.forms["quiz"]["question1"].value;
-    //      var b = document.forms["quiz"]["question2"].value;
-    //      var c = document.forms["quiz"]["question3"].value;
-    //      var d = document.forms["quiz"]["question4"].value;
-    //      var e = document.forms["quiz"]["question5"].value;
-    // if (a==""||b==""||c==""||d==""||e=="") {
-    //     alert("Please Fill All Required Fields");
-    //     return false;
-    //   }
+    if (q1==""||q2==""||q3==""||q4==""||q5=="") {
+    alert("Please Fill All Required Fields");
+    return false;
+     }
 
     quiz.style.display = "none";
     var totalVal = c*20; //multiply by 20 to get 100%
