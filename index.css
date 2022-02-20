@@ -81,3 +81,25 @@ h2{
         width: 100%;
     }
 }
+/* responsiveness for smartphone */
+@media only screen and (max-width: 400px) {
+    /* .container{
+        width: 100%;
+    } */
+    .sub,h1,h3{
+        width: 100%;
+        margin-left: -50px;
+        height: auto;
+    }
+    #quiz{
+        margin-left: -50px;
+        width: 100%;
+        float: left;
+    }
+    #button{
+    margin: 15px 0px 10px 60px;
+    font-size: 15px;
+    height: auto;
+    align-items: center;
+    }
+}
