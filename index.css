@@ -83,15 +83,15 @@ h2{
 }
 /* responsiveness for smartphone */
 @media only screen and (max-width: 400px) {
-    /* .container{
+    .container{
         width: 100%;
-    } */
+    }
     .sub,h1,h3{
         width: 100%;
         margin-left: -50px;
         height: auto;
     }
-    #quiz{
+    form{
         margin-left: -50px;
         width: 100%;
         float: left;
@@ -101,5 +101,8 @@ h2{
     font-size: 15px;
     height: auto;
     align-items: center;
+    }
+    #result{
+        margin: 0;
     }
 }

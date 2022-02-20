@@ -13,6 +13,7 @@ function check(){
     if(q4 == "C"){c++}
     if(q5 == "C"){c++}
 
+    // Validateing the form now
     if (q1==""||q2==""||q3==""||q4==""||q5=="") {
     alert("Please Fill All Required Fields");
     return false;
